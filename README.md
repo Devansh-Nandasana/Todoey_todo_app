@@ -1,6 +1,6 @@
 # Todoey
 
-An app that keeps tracks of your Tasks with classy UI and allows you to strike through your completed tasks.
+An app that keeps track of your Tasks with classy UI and allows you to strike through your completed tasks.
 
 ## What I Learnt
 
